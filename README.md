@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HelloWorld
 
 En este repositorio estamos realizando una práctica de [git](https://git-scm.com/).
@@ -14,4 +13,4 @@ En este repositorio estamos realizando una práctica de [git](https://git-scm.co
    6. `remote`
 1. Crear arquitecturas de trabajo en equipos
 2. Crear repos en línea
->>>>>>> 5f057e971671d8aea9d6124c327ed556bde8412c
+
